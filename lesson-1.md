@@ -1,8 +1,6 @@
 # Lesson 1: Hello World
 
-## Step 1
-
-Head over to [https://gobyexample.com](https://gobyexample.com) and click on the first link, _"_Hello World_"_.  On each example page, you will see a description on the left and code examples on the right.
+Head over to [https://gobyexample.com](https://gobyexample.com) and click on the first link, _"\_Hello World_"\_.  On each example page, you will see a description on the left and code examples on the right.
 
 ![](/assets/gbe-hello-world.png)
 
@@ -12,7 +10,7 @@ Any code block can be run right in your browser by clicking the tiny gopher in t
 
 You are now on the [Go Playground](https://play.golang.org/) web site. The Go Playground lets you run Go code easily, right in your browser.
 
-**Click the `Run` button.**
+**Click the **`Run`** button.**
 
 When you run the code, it gets run on the Go Playground's servers, and the output of the program is printed in the bottom section of the screen. You'll see in the bottom it says "Hello World" then in a gray font "Program exited.". The "Hello World" came from our program, and the "Program exited." is from the Go Playground letting us know that the program finished running.
 
