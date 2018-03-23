@@ -25,3 +25,11 @@ Modify your program from lesson 10 to use a range to iterate the map to output t
 
 When is range useful in a loop instead of the initial/condition/after classic loop style?
 
+## Advanced Challenge
+
+TBD
+
+## Additional Resources
+
+TBD
+
