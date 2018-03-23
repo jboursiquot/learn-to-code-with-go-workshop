@@ -20,4 +20,7 @@
 * [Lesson 11: Range](lesson-11-range.md)
 * [Lesson 12: Functions](lesson-12-functions.md)
 * [Project](project.md)
+* [Lesson 13: Pointers](lesson-13-pointers.md)
+* [Lesson 14: Structs](lesson-14-structs.md)
+* [Lesson 15: Methods](lesson-14-structs/lesson-15-methods.md)
 
