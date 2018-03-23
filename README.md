@@ -8,6 +8,8 @@ This guided workshop relies heavily on existing online resources like [Go By Exa
 
 ## For Students
 
+You have taken a major step towards learning how to code by signing up for this workshop. If you have never programmed before, you're in the right place. If you have done some programming, perhaps with a different language, some language-agnostic concepts will feel familiar. That said, we will do our best to walk you through everything we'll cover in bite-sized chunks to avoid overwhelming you with details. Our hope is that you will walk away feeling confident to continue this journey on your own.
+
 ## For Teachers
 
 ## For Teaching Assistants
