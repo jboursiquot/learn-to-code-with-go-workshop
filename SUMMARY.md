@@ -11,4 +11,5 @@
 * [Lesson 8: Arrays](lesson-8-arrays.md)
 * [Lesson 9: Slices](lesson-9-slices.md)
 * [Lesson 10: Maps](lesson-10-maps.md)
+* [Lesson 11: Range](lesson-11-range.md)
 
