@@ -9,4 +9,5 @@
 * [Lesson 6: If/Else](lesson-6-ifelse.md)
 * [Lesson 7: Switch](lesson-7-switch.md)
 * [Lesson 8: Arrays](lesson-8-arrays.md)
+* [Lesson 9: Slices](lesson-9-slices.md)
 
