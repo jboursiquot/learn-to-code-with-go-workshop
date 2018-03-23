@@ -14,7 +14,9 @@ Show your solution to your neighbor, discuss the differences between your progra
 
 ## Advanced Challenge
 
+TBD
+
 ## Additional Resources
 
-
+TBD
 
