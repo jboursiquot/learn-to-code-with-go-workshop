@@ -19,8 +19,9 @@
 * [Lesson 10: Maps](lesson-10-maps.md)
 * [Lesson 11: Range](lesson-11-range.md)
 * [Lesson 12: Functions](lesson-12-functions.md)
-* [Project](project.md)
+* [Project 1](project.md)
 * [Lesson 13: Pointers](lesson-13-pointers.md)
 * [Lesson 14: Structs](lesson-14-structs.md)
 * [Lesson 15: Methods](lesson-14-structs/lesson-15-methods.md)
+* [Project 2](project-2.md)
 
