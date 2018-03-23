@@ -24,7 +24,7 @@ Developers refer to the process you've just undergone as the "dev loop" or "deve
 
 Select and copy the line of code that is printing out "Hello World" and past it a few times, and have it write out a story. You might end up with something like this:
 
-```
+```go
 fmt.Println("Hello Alexie.")
 fmt.Println("I am so glad to meet you!")
 fmt.Println("Are you ready to learn some Go?")
@@ -34,7 +34,7 @@ There's a special character called a "newline" that starts a new line in the out
 
 For example, you could write:
 
-```Go
+```go
 fmt.Println("Hello Alexie\nWelcome")
 ```
 
