@@ -8,4 +8,5 @@
 * [Lesson 5: For Loops](lesson-5-for-loops.md)
 * [Lesson 6: If/Else](lesson-6-ifelse.md)
 * [Lesson 7: Switch](lesson-7-switch.md)
+* [Lesson 8: Arrays](lesson-8-arrays.md)
 
