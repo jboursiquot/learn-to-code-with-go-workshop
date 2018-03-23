@@ -30,6 +30,13 @@ Don't be shy. We're all here to learn. Chances are somebody next to you has the 
 Thank you for volunteering your time and expertise to help others learn our craft. Here are some things to keep in mind during the workshop:
 
 1. Patience and empathy are is the best qualities you can bring to the workshop.
+2. Do not take over a student's laptop to fix issues for them. Provide verbal instructions and have them perform the work themselves so that they may develop the habit on their own.
+3. Make the students feel safe in the space. Avoid using language that may make them feel uncomfortable or inadequate to the task. Encourage them.
+4. Report any disruptive elements to the workshop organizer. The goals is to maintain a positive learning environment at all times.
+
+## Code of Conduct
+
+A reminder that we follow Go/GoBridge Code of Conduct. It can be found [here](http://coc.golangbridge.org).
 
 ## Credits
 
