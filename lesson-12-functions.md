@@ -18,3 +18,7 @@ Share your code with your neighbor, what was different? Why are functions useful
 
 Refactor your code so that you end up with a third function. Extra bonus points if you have a function in a function in a function!
 
+## Additional Resources
+
+TBD
+
