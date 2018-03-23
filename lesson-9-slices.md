@@ -16,3 +16,11 @@ Make a program that does the following:
 
 Share your code with your neighbor, what was different? What problems did you run into?
 
+## Advanced Challenge
+
+TBD
+
+## Additional Resources
+
+TBD
+
