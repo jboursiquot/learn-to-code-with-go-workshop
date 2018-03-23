@@ -15,6 +15,10 @@ f := "short"
 f := 5
 ```
 
+## Discuss
+
+Why would it be useful to define a variable?
+
 ## Challenge
 
 TBD
