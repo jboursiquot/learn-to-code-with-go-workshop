@@ -24,3 +24,14 @@ fmt.Println("My favorite color is ", "blue")
 
 Discuss: What kinds of things could you not represent with these four types?
 
+### Advanced Challenge
+
+Do the challenge again, this time, using `fmt.Printf and the appropriate format verbs.`
+
+### Additional Resources
+
+* `fmt` package [documentation](https://godoc.org/fmt)
+* String-formatting [examples](https://gobyexample.com/string-formatting)
+
+
+
