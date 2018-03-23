@@ -21,11 +21,16 @@ We'll take our time to make sure you understand the fundamental concepts of prog
 * Using complex types to represent concepts out in the real world
 * and so much more in between
 
+### Making the most out of this opportunity
+
+Don't be shy. We're all here to learn. Chances are somebody next to you has the same questions you're afraid to ask. Speak up!
+
 ## For Teachers & Teaching Assistants
 
 Thank you for volunteering your time and expertise to help others learn our craft. Here are some things to keep in mind during the workshop:
 
-1. 
+1. Patience and empathy are is the best qualities you can bring to the workshop.
+
 ## Credits
 
 This material and workshop delivery style originated in part from the work [Johnny Boursiquot](https://twitter.com/jboursiquot) and [Nick Gauthier](https://twitter.com/ngauthier) have done at previous GoBridge workshops. We hope to continue evolving this resource to help the awesome GoBridge community volunteers in their teaching efforts.
