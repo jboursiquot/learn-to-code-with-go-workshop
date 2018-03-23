@@ -19,8 +19,5 @@
 * [Lesson 10: Maps](lesson-10-maps.md)
 * [Lesson 11: Range](lesson-11-range.md)
 * [Lesson 12: Functions](lesson-12-functions.md)
-
-## Projects
-
-* [Project 1](projects/project-1.md)
+* [Project](project.md)
 
