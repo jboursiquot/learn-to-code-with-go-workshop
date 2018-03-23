@@ -27,5 +27,9 @@ TBD
 
 TBD
 
+## Additional Resources
+
+* Slides [8-10](https://tour.golang.org/basics/8) of the Go Tour "Basics"
+
 
 
