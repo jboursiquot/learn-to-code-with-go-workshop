@@ -10,6 +10,10 @@
 4. For each type `string`, `integer`, `float`, `boolean` come up with your own example and share it with your neighbor.
 5. Click the tiny gopher to open the example in the Go Playground.
 
+## Discuss
+
+What kinds of things could you not represent with these four types?
+
 ## Challenge
 
 Get your program to print out the following sentence:
@@ -21,8 +25,6 @@ Each time there's something in CAPITALS, use a comma and use the right Go type f
 ```go
 fmt.Println("My favorite color is ", "blue")
 ```
-
-Discuss: What kinds of things could you not represent with these four types?
 
 ## Advanced Challenge
 
