@@ -23,7 +23,7 @@ We'll take our time to make sure you understand the fundamental concepts of prog
 
 ### Making the most out of this opportunity
 
-Don't be shy. We're all here to learn. Chances are somebody next to you has the same questions you're afraid to ask. Speak up!
+Don't be shy. We're all here to learn. Chances are somebody next to you has the same questions you're afraid to ask. Speak up! Teachers and TAs are here to help.
 
 ## For Teachers & Teaching Assistants
 
