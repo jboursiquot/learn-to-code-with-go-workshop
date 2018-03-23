@@ -38,12 +38,12 @@ For example, you could write:
 fmt.Println("Hello Alexie\nWelcome")
 ```
 
-### Challenge
+## Challenge
 
 1. Rewrite your program so that you only make use of **a single print statement** while still outputting your story on **multiple lines**.
 2. `fmt.Println` automatically puts a newline at the end of your string. Alter your code to make use of `fmt.Print` instead while still displaying your story on multiple lines when your program is executed.
 
-### Optional Installs
+## Optional Installs
 
 If you're comfortable, feel free to install Go to your local computer and use an editor you'd like, but don't spend too much time on it:
 
