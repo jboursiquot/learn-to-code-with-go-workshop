@@ -14,5 +14,5 @@ This guided workshop relies heavily on existing online resources like Go By Exam
 
 ## Credits
 
-This material and workshop delivery style originated in part from the work [Johnny Boursiquot](https://twitter.com/jboursiquot) and [Nick Gauthier](https://twitter.com/ngauthier) have done at previous GoBridge workshops. We hope to continue evolving this resource to help the awesome GoBridge community volunteers in their teaching efforts around the world.
+This material and workshop delivery style originated in part from the work [Johnny Boursiquot](https://twitter.com/jboursiquot) and [Nick Gauthier](https://twitter.com/ngauthier) have done at previous GoBridge workshops. We hope to continue evolving this resource to help the awesome GoBridge community volunteers in their teaching efforts.
 
