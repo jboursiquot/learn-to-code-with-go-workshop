@@ -34,6 +34,8 @@ Thank you for volunteering your time and expertise to help others learn our craf
 3. Make the students feel safe in the space. Avoid using language that may make them feel uncomfortable or inadequate to the task. Encourage them.
 4. Report any disruptive elements to the workshop organizer. The goals is to maintain a positive learning environment at all times.
 
+Teachers, please see the [Teacher Cheat Sheet](https://go-talks.appspot.com/github.com/gobridge/workshop-material/teacher-cheat-sheet.slide) for additional information and tips. TAs, please see the [TA Cheat Sheet](https://go-talks.appspot.com/github.com/gobridge/workshop-material/ta-cheat-sheet.slide) for additional information and tips.
+
 ## Code of Conduct
 
 A reminder that we follow Go/GoBridge Code of Conduct. It can be found [here](http://coc.golangbridge.org).
