@@ -5,7 +5,7 @@
 * [For Workshop Teachers](README.md)
 * [For Workshop Students](for-workshop-students.md)
 
-## Basics
+## Language Basics
 
 * [Lesson 1: Hello World](lesson-1.md)
 * [Lesson 2: Values](lesson-2.md)
@@ -18,4 +18,5 @@
 * [Lesson 9: Slices](lesson-9-slices.md)
 * [Lesson 10: Maps](lesson-10-maps.md)
 * [Lesson 11: Range](lesson-11-range.md)
+* [Lesson 12: Functions](lesson-12-functions.md)
 
