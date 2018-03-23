@@ -10,6 +10,17 @@ This guided workshop relies heavily on existing online resources like [Go By Exa
 
 You have taken a major step towards learning how to code by signing up for this workshop. If you have never programmed before, you're in the right place. If you have done some programming, perhaps with a different language, some language-agnostic concepts will feel familiar. That said, we will do our best to walk you through everything we'll cover in bite-sized chunks to avoid overwhelming you with details. Our hope is that you will walk away feeling confident to continue this journey on your own.
 
+### What you will learn
+
+We'll take our time to make sure you understand the fundamental concepts of programming, including:
+
+* Working with variables and constants
+* Working with condition with if/else statements
+* Working with lists and looping
+* Using functions for reusing functionality
+* Using complex types to represent concepts out in the real world
+* and so much more in between
+
 ## For Teachers
 
 ## For Teaching Assistants
