@@ -2,9 +2,7 @@
 
 ## Introduction
 
-* [Welcome](welcome.md)
-* [For Workshop Teachers](README.md)
-* [For Workshop Students](for-workshop-students.md)
+* [Welcome](README.md)
 
 ## Language Basics
 
