@@ -10,7 +10,7 @@
 4. For each type `string`, `integer`, `float`, `boolean` come up with your own example and share it with your neighbor.
 5. Click the tiny gopher to open the example in the Go Playground.
 
-### Challenge
+## Challenge
 
 Get your program to print out the following sentence:
 
