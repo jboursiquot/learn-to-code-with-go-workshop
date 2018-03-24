@@ -6,17 +6,26 @@
 
 ## Challenge
 
-Rewrite your program from Lesson 6, this time using a For loop with a Switch statement for even and odd.
+Combine a for loop with switch to count to 10 and print whether the number is less than 5, equal to 5, or greater than 5. The output should look like:
+
+```
+1 is less than 5
+2 is less than 5
+3 is less than 5
+4 is less than 5
+5 is equal to 5
+6 is greater than 5
+7 is greater than 5
+8 is greater than 5
+9 is greater than 5
+10 is greater than 5
+```
+
+How many different ways can you write your switch cases?
 
 ## Discuss
 
 Show your solution to your neighbor, discuss the differences between your programs.
 
-## Advanced Challenge
 
-TBD
-
-## Additional Resources
-
-TBD
 
