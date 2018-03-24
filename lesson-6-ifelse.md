@@ -43,7 +43,7 @@ Combine a \`for\` loop with \`if\`, \`else if\` and \`else\` to count to 10 and 
 10 is greater than 5
 ```
 
+## Additional Resources
 
-
-
+https://tour.golang.org/flowcontrol/5
 
