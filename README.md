@@ -42,11 +42,12 @@ A reminder that we follow Go/GoBridge Code of Conduct. It can be found [here](ht
 
 ## Credits
 
-This material and workshop delivery style originated in part from the work [Johnny Boursiquot](https://twitter.com/jboursiquot) and [Nick Gauthier](https://twitter.com/ngauthier) have done at previous GoBridge workshops. We hope to continue evolving this resource to help the awesome GoBridge community volunteers in their teaching efforts.
+Thanks to the following contributors for creating this resource to help the awesome GoBridge community volunteers in their teaching efforts:
+
+* [Johnny Boursiquot](https://twitter.com/jboursiquot)
+* [Nick Gauthier](https://twitter.com/ngauthier)
 
 ## License
 
 [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)
-
-
 
