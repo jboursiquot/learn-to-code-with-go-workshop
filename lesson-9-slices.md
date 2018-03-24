@@ -1,4 +1,4 @@
-## Lesson 9: Slices
+Lesson 9: Slices
 
 1. Open the "[Slices](https://gobyexample.com/slices)" example and read through it.
 2. How are slices different from arrays?
@@ -16,11 +16,5 @@ Make a program that does the following:
 
 Share your code with your neighbor, what was different? What problems did you run into?
 
-## Advanced Challenge
 
-TBD
-
-## Additional Resources
-
-TBD
 
