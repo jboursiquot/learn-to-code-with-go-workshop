@@ -28,7 +28,7 @@ What bugs did you encounter while you were working on the code? What problems di
 
 ## Advanced Challenge
 
-Combine a \`for\` loop with \`if\`, \`else if\` and \`else\` to count to 10 and print whether the number is less than 5, equal to 5, or greater than 5. The output should look like:
+Combine a `for` loop with `if`, `else if` and `else` to count to 10 and print whether the number is less than 5, equal to 5, or greater than 5. The output should look like:
 
 ```
 1 is less than 5
@@ -45,5 +45,5 @@ Combine a \`for\` loop with \`if\`, \`else if\` and \`else\` to count to 10 and 
 
 ## Additional Resources
 
-https://tour.golang.org/flowcontrol/5
+[https://tour.golang.org/flowcontrol/5](https://tour.golang.org/flowcontrol/5)
 
