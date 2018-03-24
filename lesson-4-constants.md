@@ -11,15 +11,15 @@ What did you find out?
 
 ## Challenge
 
-TBD
+Go has many constants already defined, for example \`math.Pi\`.
+
+Print out the perimeter distance around a circle that has a radius of 5 feet.
+
+The formula for perimeter distance is \`2 \* math.Pi \* radius\`.
 
 ## Advanced Challenge
 
-TBD
-
-## Additional Resources
-
-TBD
+Also output the area of the same circle. The formula for area is \`math.Pi \* radius&lt;sup&gt;2&lt;/sup&gt;\`.
 
 
 
