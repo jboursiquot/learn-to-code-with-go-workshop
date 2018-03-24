@@ -15,7 +15,7 @@ You have taken a major step towards learning how to code by signing up for this 
 We'll take our time to make sure you understand the fundamental concepts of programming, including:
 
 * Working with variables and constants
-* Working with condition with if/else statements
+* Working with conditionals, if/else statements
 * Working with lists and looping
 * Using functions for reusing functionality
 * Using complex types to represent concepts out in the real world

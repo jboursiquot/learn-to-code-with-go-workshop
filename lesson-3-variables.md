@@ -21,15 +21,13 @@ Why would it be useful to define a variable?
 
 ## Challenge
 
-Calculate the sales price for an Under Armour shirt that is 10 USD using the 30% \(\`discount := 0.30\`\) coupon we just received and save it to a variable named \`salePrice\`. 
+Variables are perfect for storing data that can be used later on within a program.
 
-Then print the sales price using \`fmt.Println\(salePrice\)\`
+Update the challenge from Lesson 2 to use varibles for the following values `name, age, color, money`
 
 ## Advanced Challenge
 
-Calculate to the sales prices for the same shirt with a discount of 30%, 25%, and 10%. Saving each calculated value into its own variable. 
-
-Print each variable on its own line.
+In Go, it is common to assign the results of a function to one or more variables. For this challenge update the code from above to use `fmt.Sprintf` which will return a string version of the formatted output, and store the return value to a new variable named `msg`
 
 ## Additional Resources
 

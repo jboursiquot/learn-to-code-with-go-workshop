@@ -1,11 +1,11 @@
-Lesson 9: Slices
+# Lesson 9: Slices
 
 1. Open the "[Slices](https://gobyexample.com/slices)" example and read through it.
 2. How are slices different from arrays?
 
 ## Challenge
 
-Make a program that does the following:
+Write a program that does the following:
 
 1. Creates an empty slice of integers and prints it out -&gt; `[]`
 2. Loops over the numbers 1 through 10 and appends them to the slice
@@ -14,7 +14,11 @@ Make a program that does the following:
 
 ## Discuss
 
-Share your code with your neighbor, what was different? What problems did you run into?
+Share your code with your neighbor, what was different?
 
+What problems did you run into?
 
+## Additional Resources
+
+Slice expressions in the [Go Programming Language Specification](https://golang.org/ref/spec#Slice_expressions)
 

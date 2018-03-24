@@ -19,5 +19,5 @@ The formula for perimeter distance is `2 * math.Pi * radius`.
 
 ## Advanced Challenge
 
-Also output the area of the same circle. The formula for area is `math.Pi * radius<sup>2</sup>`.
+Update the code above to also output the area of the same circle. The formula for area is $$math.Pi * radius^2$$
 
