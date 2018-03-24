@@ -40,7 +40,7 @@ Teachers, please see the [Teacher Cheat Sheet](https://go-talks.appspot.com/gith
 
 A reminder that we follow Go/GoBridge Code of Conduct. It can be found [here](http://coc.golangbridge.org).
 
-## Credits
+## Contributors
 
 Thanks to the following contributors for creating this resource to help the awesome GoBridge community volunteers in their teaching efforts:
 
