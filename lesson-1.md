@@ -45,10 +45,11 @@ fmt.Println("Hello Alexie\nWelcome")
 
 ## Advanced Challenge
 
-If you're comfortable, feel free to install Go to your local computer and use an editor you'd like, but don't spend too much time on it:
+* Install Go on your local computer. Go can be downloaded at [https://golang.org/dl/](https://golang.org/dl/).
+* Install our editor of choice: [Visual Studio Code](https://code.visualstudio.com/).
+* Copy your simple program from the **Challenge** above and run it from your VS Code editor. 
 
-* Go can be downloaded at [https://golang.org/dl/](https://golang.org/dl/)
-* Our editor of choice is [Visual Studio Code](https://code.visualstudio.com/)
+TA's can help you get these things working so don't hesitate to ask for help.
 
 
 
