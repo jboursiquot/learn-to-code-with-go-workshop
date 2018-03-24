@@ -17,13 +17,5 @@ Write a program that does the following:
 
 What did you find most challenging about the challenge?
 
-## Advanced Challenge
-
-TBD
-
-## Additional Resources
-
-TBD
-
 
 
