@@ -10,13 +10,19 @@
 
 ## Discuss
 
+Why would you ever use a loop that never ends?
+
 ## Challenge
+
+Write a for loop that only executes once. 
 
 ## Advanced Challenge
 
+Write a loop with no condition that exits when the count is equal to 100.
+
 ## Additional Resources
 
-
+Slides \[1-5\]\(https://tour.golang.org/flowcontrol/1\) of the Go Tour “flowcontrol”
 
 
 

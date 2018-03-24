@@ -21,11 +21,15 @@ Why would it be useful to define a variable?
 
 ## Challenge
 
-TBD
+Calculate the sales price for an Under Armour shirt that is 10 USD using the 30% \(\`discount := 0.30\`\) coupon we just received and save it to a variable named \`salePrice\`. 
+
+Then print the sales price using \`fmt.Println\(salePrice\)\`
 
 ## Advanced Challenge
 
-TBD
+Calculate to the sales prices for the same shirt with a discount of 30%, 25%, and 10%. Saving each calculated value into its own variable. 
+
+Print each variable on its own line.
 
 ## Additional Resources
 
