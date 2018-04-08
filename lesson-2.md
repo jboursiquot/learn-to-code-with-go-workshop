@@ -1,6 +1,5 @@
 # Lesson 2: Values
-
-1. Go back to [https://gobyexample.com](https://gobyexample.com/) and click on the second link, "Values"
+1. Go back to [https://gobyexample.com](https://gobyexample.com/) and click on the second link, "[Values](https://gobyexample.com/values)".
 2. Read through the description on the left and the code on the right.
 3. Consider the following list of things. What type of value would you use for each one?
    1. The price of a sandwich
@@ -29,6 +28,8 @@ fmt.Println("My favorite color is ", "blue")
 ## Advanced Challenge
 
 Do the challenge again, this time, using `fmt.Printf and the appropriate format verbs.`
+
+Use the appropriate format verbs to print `The integer value for a, is 97`.
 
 ## Additional Resources
 
