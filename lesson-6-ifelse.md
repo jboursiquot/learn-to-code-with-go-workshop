@@ -2,7 +2,7 @@
 
 1. Open the "[If/Else](https://gobyexample.com/if-else)" example and read through it
 2. What does `%` do?
-3. What does `==`, `<`, and `>` do? 
+3. What does `==`, `<`, and `>` do?
 4. What type is the result of using those operators? What type does `if` statements use?
 
 ## Challenge
@@ -45,5 +45,5 @@ Combine a `for` loop with `if`, `else if` and `else` to count to 10 and print wh
 
 ## Additional Resources
 
-[https://tour.golang.org/flowcontrol/5](https://tour.golang.org/flowcontrol/5)
+Slides [5-7](https://tour.golang.org/flowcontrol/5) of the Go Tour “flowcontrol”
 
