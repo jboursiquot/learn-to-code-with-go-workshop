@@ -1,8 +1,8 @@
 # Lesson 4: Constants
 
-1. Open the "[Constants](https://gobyexample.com/constants)" example and read through it. 
-2. What do you think it means for something to be constant? 
-3. How is this different from a variable? 
+1. Open the "[Constants](https://gobyexample.com/constants)" example and read through it.
+2. What do you think it means for something to be constant?
+3. How is this different from a variable?
 4. Open the example on the Go Playground and test your hypothesis!
 
 ## Discuss
@@ -19,5 +19,9 @@ The formula for perimeter distance is `2 * math.Pi * radius`.
 
 ## Advanced Challenge
 
-Also output the area of the same circle. The formula for area is `math.Pi * radius<sup>2</sup>`.
+Also output the area of the same circle using the formula: math.Pi * radius<sup>2</sup>
+
+
+## Additional Resources
+* `math` package [documentation](https://godoc.org/math)
 
