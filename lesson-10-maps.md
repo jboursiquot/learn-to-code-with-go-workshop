@@ -5,7 +5,7 @@
 
 ## Challenge
 
-Make a program that does the following:
+Write a program that does the following:
 
 1. Creates a map from integers to booleans
 2. Loops through the numbers 1 through 10 and sets the map where the key is the number and the value is whether the number is even \(HINT: use an If/Else or Switch!\)
@@ -14,7 +14,9 @@ Make a program that does the following:
 
 ## Discuss
 
-Share your code with your neighbor: what was different? What problems did you run into?
+Share your code with your neighbor, what was different? 
+
+What problems did you run into?
 
 ## Advanced Challenge
 
