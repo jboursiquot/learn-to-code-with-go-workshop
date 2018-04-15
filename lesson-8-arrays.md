@@ -15,8 +15,7 @@ Write a program that does the following:
 
 ## Discuss
 
-* What did you find most challenging about the challenge?
-* If you print out the type of the int array of size 10 using, what do you expect its type to be?
+What did you find most challenging about the challenge?
 
-
+If you print out the type of the int array of size 10 using, what do you expect its type to be?
 
