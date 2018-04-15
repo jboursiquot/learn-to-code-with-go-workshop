@@ -20,7 +20,5 @@ What problems did you run into?
 
 ## Additional Resources
 
-
-
-
+Slice expressions in the [Go Programming Language Specification](https://golang.org/ref/spec#Slice_expressions)
 
