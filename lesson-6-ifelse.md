@@ -45,5 +45,5 @@ Combine a `for` loop with `if`, `else if` and `else` to count to 10 and print wh
 
 ## Additional Resources
 
-[https://tour.golang.org/flowcontrol/5](https://tour.golang.org/flowcontrol/5)
+Slides [5-7](https://tour.golang.org/flowcontrol/5) of the Go Tour “flowcontrol”
 
