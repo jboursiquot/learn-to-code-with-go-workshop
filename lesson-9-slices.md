@@ -1,4 +1,4 @@
-Lesson 9: Slices
+# Lesson 9: Slices
 
 1. Open the "[Slices](https://gobyexample.com/slices)" example and read through it.
 2. How are slices different from arrays?

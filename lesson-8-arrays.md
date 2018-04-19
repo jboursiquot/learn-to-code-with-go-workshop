@@ -13,6 +13,10 @@ Write a program that does the following:
 5. Loops through the first array, and set the second array's value to `true` if the number in the first array is even
 6. Prints out the second array -&gt; `[false true false true false true false true false true]`
 
+## Advanced Challenge
+
+Declare an int array of size 5 that is initilized as `[1 0 0 3 0]`
+
 ## Discuss
 
 What did you find most challenging about the challenge?
