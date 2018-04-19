@@ -1,6 +1,6 @@
 # Lesson 1: Hello World
 
-Head over to [https://gobyexample.com](https://gobyexample.com) and click on the first link, _"\_Hello World_"\_.  On each example page, you will see a description on the left and code examples on the right.
+Head over to [https://gobyexample.com](https://gobyexample.com) and click on the first link, "[Hello World](https://gobyexample.com/hello-world)".  On each example page, you will see a description on the left and code examples on the right.
 
 ![](/assets/gbe-hello-world.png)
 
@@ -22,7 +22,7 @@ Developers refer to the process you've just undergone as the "dev loop" or "deve
 
 **Let's try something new:**
 
-Select and copy the line of code that is printing out "Hello World" and past it a few times, and have it write out a story. You might end up with something like this:
+Select and copy the line of code that is printing out "Hello World" and paste it a few times, and have it write out a story. You might end up with something like this:
 
 ```go
 fmt.Println("Hello Alexie.")
@@ -47,7 +47,7 @@ fmt.Println("Hello Alexie\nWelcome")
 
 * Install Go on your local computer. Go can be downloaded at [https://golang.org/dl/](https://golang.org/dl/).
 * Install our editor of choice: [Visual Studio Code](https://code.visualstudio.com/).
-* Copy your simple program from the **Challenge** above and run it from your VS Code editor. 
+* Copy your simple program from the **Challenge** above and run it from your VS Code editor.
 
 TA's can help you get these things working so don't hesitate to ask for help.
 
