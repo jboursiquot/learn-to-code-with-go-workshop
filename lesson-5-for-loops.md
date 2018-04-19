@@ -12,7 +12,7 @@
 
 What are some day to day objects that run in a loop?
 
-## Challenges
+## Challenge
 
 Write a for loop that only executes once
 
