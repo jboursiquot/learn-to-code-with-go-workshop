@@ -27,9 +27,9 @@ When is range useful in a loop instead of the initial/condition/after classic lo
 
 ## Advanced Challenge
 
-When iterating over maps the order of keys is not garunteed so running the same program multiple times will result in different outputs, as you may have noticed from the challenged above. In ordered to print a map in order the keys must be sorted separately and then used to access the fields of the key. 
+When iterating over maps the order of keys is not garunteed so running the same program multiple times will result in different outputs, as you may have noticed from the challenged above. In ordered to print a map in order the keys must be sorted separately and then used to access the fields of the key.
 
-Update the program above so that the map is always printed in order strating at 1, all they way to ten. 
+Update the program above so that the map is always printed in order strating at 1, all they way to 10.
 
 **HINT**: use the [sort.Ints](https://godoc.org/sort#Ints) function in the [sort](https://godoc.org/sort) package
 
