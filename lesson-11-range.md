@@ -27,7 +27,7 @@ When is range useful in a loop instead of the initial/condition/after classic lo
 
 ## Advanced Challenge
 
-TBD
+Update the advanced challenge exercise in lesson 10 "Maps" to use a range statement for printing all the groups of numbers.
 
 ## Additional Resources
 
