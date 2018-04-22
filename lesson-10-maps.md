@@ -20,7 +20,12 @@ What problems did you run into?
 
 ## Advanced Challenge
 
-TBD
+Write a program that sorts a set of numbers 0 - 30 into two groups: "Numbers divisible by 9", "Numbers not divisible by 9". The output for the progrom should something like the output below. `Hint: use constants as map keys.`
+
+```
+Divisible by 9: [9 18 27]
+Not Divisible by 9: [10 11 12 13 14 15 16 17 19 20 21 22 23 24 25 26 28 29 30]
+```
 
 ## Additional Resources
 
