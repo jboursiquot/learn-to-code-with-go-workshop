@@ -20,5 +20,5 @@ Refactor your code so that you end up with a third function. Extra bonus points 
 
 ## Additional Resources
 
-TBD
+[Functions](https://www.golang-book.com/books/intro/7), in Caleb Doxsey's [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
 
